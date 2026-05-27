@@ -43,7 +43,7 @@ Information about WCAG compliance and accessibility features.
 - Email: yoavyo4@gmail.com
 - Phone: 0506993972
 - Phone (tel): tel:0506993972
-- Address: asw vdg,ui 21' bvrhv
+- Address: שד' הגעתון 21, נהריה
 
 ### Contact form
 - URL: https://yoavbekleistner.zappy5.app/contact
