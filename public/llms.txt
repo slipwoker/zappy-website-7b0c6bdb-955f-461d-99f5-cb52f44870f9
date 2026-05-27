@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://yoavbekleistner.zappy5.app
 מחפשים עורך דין למקרקעין או לתביעות? משרד עורך דין יואב בק לייסטנר מספק ייצוג מקצועי, אמין ומנוסה. פנו אלינו עוד היום לייעוץ ראשוני!
 
 ### תחומי עיסוק
-https://example.com/practice-areas
+https://yoavbekleistner.zappy5.app/practice-areas
 מנדל&quot;ן ודירות ועד צוואות, יפוי כח מתמשך וייצוג בבית משפט — גלו את מלוא תחומי העיסוק המשפטיים שמשרדנו מציע ומצאו את הפתרון המדויק לצרכיכם.
 
 ### אודות
-https://example.com/about
+https://yoavbekleistner.zappy5.app/about
 עורך דין יואב בק לייסטנר מביא שנות ניסיון, מקצועיות ומחויבות אישית לכל תיק. גלו מי עומד לצדכם בעסקאות נדל&quot;ן, תביעות ועוד — כי הסיפור שלכם חשוב לנו.
 
 ### צור קשר
-https://example.com/contact
+https://yoavbekleistner.zappy5.app/contact
 יש לכם שאלה משפטית בנושא נדל&quot;ן, תביעות או צוואה? צרו קשר עם משרד עורך דין יואב בק לייסטנר עכשיו וקבלו מענה מהיר, אישי ומקצועי שמתאים בדיוק למצבכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://yoavbekleistner.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://yoavbekleistner.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://yoavbekleistner.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -46,8 +46,8 @@ Information about WCAG compliance and accessibility features.
 - Address: asw vdg,ui 21' bvrhv
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://yoavbekleistner.zappy5.app/contact
+- Endpoint: https://yoavbekleistner.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Legal Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://yoavbekleistner.zappy5.app/sitemap.xml
+- Robots: https://yoavbekleistner.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://yoavbekleistner.zappy5.app/llms-full.txt
